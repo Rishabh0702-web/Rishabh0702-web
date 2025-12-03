@@ -18,7 +18,6 @@
   <img src="https://img.shields.io/badge/Status-Open%20to%20work-%2300b894" alt="open to work" />
 </p>
 
----
 ### 🚀 About Me  
 - 💻 Passionate **Web Developer**  
 - 🎨 Experienced **UI/UX Designer** (Figma, Posters, Ads, Social Media)  
@@ -49,7 +48,6 @@
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://skillicons.dev/icons?i=nodejs,mongodb," alt="Backend" />
 </div>
----
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
