@@ -27,7 +27,6 @@
 - 📬 Reach me at **rishabh09454@gmail.com** 
 
 ## 🧰 Languages & Frameworks
-
 **Languages**
 <p>
   <img title="Python" alt="Python" src="https://skillicons.dev/icons?i=python" width="36" />
@@ -38,7 +37,6 @@
 </p>
 
 **Frontend & Mobile**
-
 <p>
   <img title="Next.js" alt="Next" src="https://skillicons.dev/icons?i=nextjs" width="36" />
   <img title="React" alt="React" src="https://skillicons.dev/icons?i=react" width="36" />
@@ -48,15 +46,12 @@
 </p>
 
 **Backend & Databases**
-
-<p>
-  <img title="NodeJS" alt="Node" src="https://skillicons.dev/icons?i=node" width="36" />
-   <img title="MongoDB" alt="Mongo" src="https://skillicons.dev/icons?i=mongodb" width="36" />
-</p>
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="https://skillicons.dev/icons?i=nodejs,mongodb," alt="Backend" />
+</div>
 ---
 
 ## 📊 GitHub Stats & Trophies
-
 <p align="center">
   <!-- GitHub Profile Stats (dark theme) -->
   <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Rishabh0702-web&show_icons=true&count_private=true&theme=dark" height="160" />
@@ -69,16 +64,7 @@
 </p>
 
 ---
-## 📈 Contribution Graph
 
-<p align="center">
-  <!-- Activity Graph (example generator) -->
-  <img src="https://activity-graph.herokuapp.com/graph?username=Rishabh0702-web&theme=react-dark&area=true&hide_border=true" alt="contribution graph" width="100%" />
-</p>
-
-> ⚠️ If the activity graph image does not render immediately, follow the instructions below to generate/enable it (simple setup steps included).
-
----
 ## 🔭 Featured Projects
 
 - **Corporate Cab Admin Dashboard** — Admin UI, live tracking, scheduling & reporting.  
@@ -109,10 +95,6 @@
 - LinkedIn: https://www.linkedin.com/in/rishabh-gupta-440087326/
 
 ---
-
-<p align="center">
-  <img src="./assets/logo.svg" width="96" alt="Rishabh logo" />
-</p>
 
 <!-- End of README -->
 
