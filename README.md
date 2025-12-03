@@ -1,20 +1,3 @@
-=-098765432q  <h1 align="center">Hi 👋, I'm Rishabh</h1>
-<h3 align="center">Web Developer | UI/UX Designer | Learning App Development</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rishabh0702-web&color=blue" alt="Profile views" />
-</p>
-
----
-
-### 🚀 About Me  
-- 💻 Passionate **Web Developer**  
-- 🎨 Experienced **UI/UX Designer** (Figma, Posters, Ads, Social Media)  
-- 📱 Currently learning **React Native** for App Development  
-- 🏆 Participate in hackathons & love building creative projects  
-- 📬 Reach me at **rishabh09454@gmail.com**  
-
----
 
 <!-- =========================================
   Professional Dark GitHub README for Rishabh
@@ -36,7 +19,14 @@
 </p>
 
 ---
+### 🚀 About Me  
+- 💻 Passionate **Web Developer**  
+- 🎨 Experienced **UI/UX Designer** (Figma, Posters, Ads, Social Media)  
+- 📱 Currently learning **React Native** for App Development  
+- 🏆 Participate in hackathons & love building creative projects  
+- 📬 Reach me at **rishabh09454@gmail.com** 
 
+- 
 ## 🧰 Languages & Frameworks
 
 **Languages**
@@ -44,7 +34,6 @@
 <p>
   <img title="Python" alt="Python" src="https://skillicons.dev/icons?i=python" width="36" />
   <img title="TypeScript" alt="TS" src="https://skillicons.dev/icons?i=ts" width="36" />
-  <img title="Rust" alt="Rust" src="https://skillicons.dev/icons?i=rust" width="36" />
   <img title="C" alt="C" src="https://skillicons.dev/icons?i=c" width="36" />
   <img title="C++" alt="C++" src="https://skillicons.dev/icons?i=cpp" width="36" />
   <img title="JavaScript" alt="JS" src="https://skillicons.dev/icons?i=js" width="36" />
@@ -64,29 +53,8 @@
 
 <p>
   <img title="NodeJS" alt="Node" src="https://skillicons.dev/icons?i=node" width="36" />
-  <img title="Express" alt="Express" src="https://skillicons.dev/icons?i=express" width="36" />
-  <img title="Django" alt="Django" src="https://skillicons.dev/icons?i=django" width="36" />
-  <img title="MongoDB" alt="Mongo" src="https://skillicons.dev/icons?i=mongodb" width="36" />
-  <img title="Postgres" alt="Postgres" src="https://skillicons.dev/icons?i=postgres" width="36" />
+   <img title="MongoDB" alt="Mongo" src="https://skillicons.dev/icons?i=mongodb" width="36" />
 </p>
-
-**AI/ML & Blockchain**
-
-<p>
-  <img title="PyTorch" alt="PyTorch" src="https://skillicons.dev/icons?i=pytorch" width="36" />
-  <img title="TensorFlow" alt="TF" src="https://skillicons.dev/icons?i=tf" width="36" />
-  <img title="Solidity" alt="Solidity" src="https://skillicons.dev/icons?i=hardhat" width="36" />
-</p>
-
-**DevOps & Tools**
-
-<p>
-  <img title="Docker" alt="docker" src="https://skillicons.dev/icons?i=docker" width="36" />
-  <img title="Git" alt="git" src="https://skillicons.dev/icons?i=git" width="36" />
-  <img title="VS Code" alt="vscode" src="https://skillicons.dev/icons?i=vscode" width="36" />
-  <img title="Linux" alt="linux" src="https://skillicons.dev/icons?i=linux" width="36" />
-</p>
-
 ---
 
 ## 📊 GitHub Stats & Trophies
@@ -131,24 +99,20 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white" alt="linkedin" /></a>
+  <a href="https://www.linkedin.com/in/rishabh-gupta-440087326/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white" alt="linkedin" /></a>
   &nbsp;
-  <a href="https://instagram.com/yourprofile"><img src="https://img.shields.io/badge/Instagram-%23E4405F?style=flat&logo=instagram&logoColor=white" alt="instagram" /></a>
+  <a href="https://www.instagram.com/rishabh.gupta5/"><img src="https://img.shields.io/badge/Instagram-%23E4405F?style=flat&logo=instagram&logoColor=white" alt="instagram" /></a>
   &nbsp;
-  <a href="https://medium.com/@yourprofile"><img src="https://img.shields.io/badge/Medium-%23121212?style=flat&logo=medium&logoColor=white" alt="medium" /></a>
-  &nbsp;
-  <a href="https://leetcode.com/yourprofile"><img src="https://img.shields.io/badge/LeetCode-%23FFA116?style=flat&logo=leetcode&logoColor=white" alt="leetcode" /></a>
-  &nbsp;
-  <a href="https://github.com/Rishabh0702-web"><img src="https://img.shields.io/badge/GitHub-%23121011?style=flat&logo=github&logoColor=white" alt="github" /></a>
+ <a href="https://github.com/Rishabh0702-web"><img src="https://img.shields.io/badge/GitHub-%23121011?style=flat&logo=github&logoColor=white" alt="github" /></a>
 </p>
 
 ---
 
 ## ✉️ Contact
 
-- Email: **your-email@example.com**  
+- Email: **rishabh09454@gmail.com**  
 - Location: India  
-- LinkedIn: https://linkedin.com/in/yourprofile
+- LinkedIn: https://www.linkedin.com/in/rishabh-gupta-440087326/
 
 ---
 
