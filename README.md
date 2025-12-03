@@ -47,10 +47,10 @@
 
 ### 🌐 Connect With Me  
 <p>
-  <a href="https://instagram.com/yourprofile">
+  <a href="https://www.instagram.com/rishabh.gupta5/">
     <img src="https://skillicons.dev/icons?i=instagram" width="40"/>
   </a>
-  <a href="https://linkedin.com/in/yourprofile">
+  <a href="https://www.linkedin.com/in/rishabh-gupta-440087326/">
     <img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
   </a>
 </p>
