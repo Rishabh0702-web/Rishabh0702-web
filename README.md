@@ -12,7 +12,7 @@
 - 🎨 Experienced **UI/UX Designer** (Figma, Posters, Ads, Social Media)  
 - 📱 Currently learning **React Native** for App Development  
 - 🏆 Participate in hackathons & love building creative projects  
-- 📬 Reach me at **your email here**  
+- 📬 Reach me at **rishabh09454@gmail.com**  
 
 ---
 
