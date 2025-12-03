@@ -26,11 +26,9 @@
 - 🏆 Participate in hackathons & love building creative projects  
 - 📬 Reach me at **rishabh09454@gmail.com** 
 
-- 
 ## 🧰 Languages & Frameworks
 
 **Languages**
-
 <p>
   <img title="Python" alt="Python" src="https://skillicons.dev/icons?i=python" width="36" />
   <img title="TypeScript" alt="TS" src="https://skillicons.dev/icons?i=ts" width="36" />
@@ -62,18 +60,15 @@
 <p align="center">
   <!-- GitHub Profile Stats (dark theme) -->
   <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Rishabh0702-web&show_icons=true&count_private=true&theme=dark" height="160" />
-
   <!-- Top Languages -->
   <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishabh0702-web&layout=compact&theme=dark" height="160" />
 </p>
-
 <p align="center">
   <!-- Trophy / Profile Achievements -->
   <img src="https://github-profile-trophy.vercel.app/?username=Rishabh0702-web&theme=darkhub&no-frame=true&margin-w=8" alt="trophy" />
 </p>
 
 ---
-
 ## 📈 Contribution Graph
 
 <p align="center">
@@ -84,12 +79,11 @@
 > ⚠️ If the activity graph image does not render immediately, follow the instructions below to generate/enable it (simple setup steps included).
 
 ---
-
 ## 🔭 Featured Projects
 
 - **Corporate Cab Admin Dashboard** — Admin UI, live tracking, scheduling & reporting.  
-- **Locallancer** — Hyperlocal freelancer marketplace (MVP).  
-- **ChronoCapsule** — AI + blockchain time-locked memory capsule (concept + prototype).  
+- **hackLLM** -- Large Language Model  
+- **EduLearn- Education learning platform** — AI chatbot + frontend + backened
 - **Responsive Landing Templates** — Clean, fast portfolio landing pages & Figma files.
 
 (Each project has a short case-study section inside its repo — problem → approach → outcome.)
