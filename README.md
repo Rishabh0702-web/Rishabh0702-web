@@ -50,18 +50,22 @@
 </div>
 
 ## 📊 GitHub Stats & Trophies
-<p align="center">
-  <!-- GitHub Profile Stats (dark theme) -->
-  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Rishabh0702-web&show_icons=true&count_private=true&theme=dark" height="160" />
-  <!-- Top Languages -->
-  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishabh0702-web&layout=compact&theme=dark" height="160" />
-</p>
-<p align="center">
-  <!-- Trophy / Profile Achievements -->
-  <img src="https://github-profile-trophy.vercel.app/?username=Rishabh0702-web&theme=darkhub&no-frame=true&margin-w=8" alt="trophy" />
-</p>
+<div>
 
----
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Rishabh0702-web&theme=tokyonight&row=1&column=6" alt="Trophies" />
+</div>
+</br>
+<div align="center">  
+  <img src="https://github-readme-stats.vercel.app/api?username=Rishabh0702-web&show_icons=true&theme=tokyonight" />
+<div style="display: flex; flex-direction: column; align-items: center; gap: 20px; text-align: center;">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aRishabh0702-web&theme=react-dark" />
+</div>
+  
+</div>
+
+
+
 
 ## 🔭 Featured Projects
 
