@@ -59,7 +59,7 @@
 <div align="center">  
   <img src="https://github-readme-stats.vercel.app/api?username=Rishabh0702-web&show_icons=true&theme=tokyonight" />
 <div style="display: flex; flex-direction: column; align-items: center; gap: 20px; text-align: center;">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aRishabh0702-web&theme=react-dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rishabh0702-web&theme=react-dark" />
 </div>
   
 </div>
