@@ -49,24 +49,21 @@
   <img src="https://skillicons.dev/icons?i=nodejs,mongodb," alt="Backend" />
 </div>
 
-## 📊 GitHub Stats & Trophies
-<div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rishabh0702-web&theme=tokyonight&row=1&column=6" alt="Trophies" />
-</div>
-</br>
-<div align="center">  
-  <img src="https://github-readme-stats.vercel.app/api?username=Rishabh0702-web&show_icons=true&theme=tokyonight" />
-<div style="display: flex; flex-direction: column; align-items: center; gap: 20px; text-align: center;">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rishabh0702-web&theme=react-dark" />
-</div>
-  
-</div>
+## 📈 GitHub Stats  
 
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rishabh0702-web&theme=tokyonight" alt="streak" />
+</p>
 
+---
 
+## 🏆 Achievements  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Rishabh0702-web&theme=tokyonight&row=1&column=6" />
+</p>
+
+---
 ## 🔭 Featured Projects
 
 - **Corporate Cab Admin Dashboard** — Admin UI, live tracking, scheduling & reporting.  
