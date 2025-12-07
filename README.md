@@ -100,9 +100,13 @@
 ---
 
 ### 🐍 Contribution Snake  
-<img src="https://github.com/Rishabh0702-web/Rishabh0702-web/blob/output/github-contribution-grid-snake.svg" />
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rishabh0702-web/Rishabh0702-web/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rishabh0702-web/Rishabh0702-web/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Rishabh0702-web/Rishabh0702-web/output/github-contribution-grid-snake.svg">
+</picture>
+
 
 ### ✨ Fun Fact  
 💡 *I believe in building things that solve real problems — not just code for the sake of it!*
