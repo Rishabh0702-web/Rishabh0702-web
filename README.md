@@ -20,7 +20,7 @@
 ## 📄 Resume
 
 <p align="center">
-  <a href="assetsResume_Rishabh_Gupta.pdf">
+  <a href="assets/Resume_Rishabh_Gupta.pdf">
     <img src="https://img.shields.io/badge/View%20Resume-Professional-blue?style=for-the-badge" />
   </a>
 </p>
