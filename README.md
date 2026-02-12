@@ -17,7 +17,7 @@
   &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Status-Open%20to%20work-%2300b894" alt="open to work" />
 </p>
-## 📄 Resume
+ 📄 Resume
 
 <p align="center">
   <a href="assets/Resume_Rishabh_Gupta.pdf">
