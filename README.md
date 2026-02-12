@@ -17,6 +17,14 @@
   &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Status-Open%20to%20work-%2300b894" alt="open to work" />
 </p>
+## 📄 Resume
+
+<p align="center">
+  <a href="./assets/Resume_Rishabh_Gupta.pdf">
+    <img src="https://img.shields.io/badge/View%20Resume-Professional-blue?style=for-the-badge" />
+  </a>
+</p>
+
 
 ### 🚀 About Me  
 - 💻 Passionate **Web Developer**  
