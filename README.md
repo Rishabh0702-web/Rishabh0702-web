@@ -10,7 +10,7 @@
 </p>
 
 <h1 align="center" style="margin-top:18px">Hi 👋, I'm <strong>Rishabh</strong></h1>
-<p align="center"><strong>Web Developer</strong> · <strong>UI/UX Designer</strong> · <strong>Full Stack Developer</strong></p>
+<p align="center"><strong>AI Learner</strong> · <strong>UI/UX Designer</strong> · <strong>Full Stack Developer</strong></p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Rishabh0702-web&color=blue" alt="profile views" />
