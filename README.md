@@ -77,7 +77,7 @@
 - **Corporate Cab Admin Dashboard** — Admin UI, live tracking, scheduling & reporting.  
 - **hackLLM** -- Large Language Model  
 - **EduLearn- Education learning platform** — AI chatbot + frontend + backened
-- **Responsive Landing Templates** — Clean, fast portfolio landing pages & Figma files.
+- **AI Resume Analyzer** — analyse the resume score 
 
 (Each project has a short case-study section inside its repo — problem → approach → outcome.)
 
